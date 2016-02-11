@@ -1,0 +1,29 @@
+_repo: Cours-de-philosophie-positive-vol-66_50786
+creator:
+  author:
+    agent_name: Comte, Auguste
+    aliases:
+    - Comte, Isidore Auguste Marie François Xavier
+    - Compte, Auguste
+    - Comte, Isidore Auguste Marie Francois Xavier
+    birthdate: 1798
+    deathdate: 1857
+    gutenberg_agent_id: '35532'
+    url: http://www.gutenberg.org/2009/agents/35532
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Auguste_Comte
+    - http://fr.wikipedia.org/wiki/Auguste_Comte
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Nouveautés
+gutenberg_issued: '2015-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50786'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Cours de philosophie positive, vol. 6/6
+url: http://www.gutenberg.org/ebooks/50786
