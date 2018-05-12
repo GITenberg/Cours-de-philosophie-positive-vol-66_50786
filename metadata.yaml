@@ -1,4 +1,8 @@
 _repo: Cours-de-philosophie-positive-vol-66_50786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50786-h/images/cover.jpg
 creator:
   author:
     agent_name: Comte, Auguste
@@ -14,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Auguste_Comte
     - http://fr.wikipedia.org/wiki/Auguste_Comte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50786#Cours-de-philosophie-positive-vol-66
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Nouveautés
